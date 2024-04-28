@@ -1,0 +1,14 @@
+C:\Users\Masas\OneDrive\Documents\cse310\bin\Debug\net8.0\cse310.exe
+C:\Users\Masas\OneDrive\Documents\cse310\bin\Debug\net8.0\cse310.deps.json
+C:\Users\Masas\OneDrive\Documents\cse310\bin\Debug\net8.0\cse310.runtimeconfig.json
+C:\Users\Masas\OneDrive\Documents\cse310\bin\Debug\net8.0\cse310.dll
+C:\Users\Masas\OneDrive\Documents\cse310\bin\Debug\net8.0\cse310.pdb
+C:\Users\Masas\OneDrive\Documents\cse310\obj\Debug\net8.0\cse310.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masas\OneDrive\Documents\cse310\obj\Debug\net8.0\cse310.AssemblyInfoInputs.cache
+C:\Users\Masas\OneDrive\Documents\cse310\obj\Debug\net8.0\cse310.AssemblyInfo.cs
+C:\Users\Masas\OneDrive\Documents\cse310\obj\Debug\net8.0\cse310.csproj.CoreCompileInputs.cache
+C:\Users\Masas\OneDrive\Documents\cse310\obj\Debug\net8.0\cse310.dll
+C:\Users\Masas\OneDrive\Documents\cse310\obj\Debug\net8.0\refint\cse310.dll
+C:\Users\Masas\OneDrive\Documents\cse310\obj\Debug\net8.0\cse310.pdb
+C:\Users\Masas\OneDrive\Documents\cse310\obj\Debug\net8.0\cse310.genruntimeconfig.cache
+C:\Users\Masas\OneDrive\Documents\cse310\obj\Debug\net8.0\ref\cse310.dll
